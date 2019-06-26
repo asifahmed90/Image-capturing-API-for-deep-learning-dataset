@@ -1,7 +1,7 @@
 # Image-capturing-for-deep-learning-dataset-using-API
 A simple API using google-images-download to fetch images automatically from google search. I used google colab to run the code but can be run in any IDE. In this case images regarding yoga pose has been demostrated.
 
-##Dependency:
+### Dependency:
 1. Tensorflow
 2. google-images-download
 3. OpenCV
